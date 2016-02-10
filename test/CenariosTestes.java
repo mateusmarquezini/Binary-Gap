@@ -3,7 +3,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
- * Created by mmn on 10-02-2016.
+ * Created by mateus.marquezini on 10-02-2016.
  */
 public class CenariosTestes {
     private BinaryGap gap;
