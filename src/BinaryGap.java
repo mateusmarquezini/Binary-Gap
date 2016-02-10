@@ -1,5 +1,5 @@
 /**
- * Created by mmn on 05-02-2016.
+ * Created by mateus.marquezini on 05-02-2016.
  */
 public class BinaryGap {
 
